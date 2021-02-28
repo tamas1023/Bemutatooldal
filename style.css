@@ -1,0 +1,13 @@
+li{
+    float: left;
+    padding: 10px;
+}
+#j{
+    float: right;
+}
+#b{
+    float: left;
+}
+div{
+    border: 1px solid black;
+}
